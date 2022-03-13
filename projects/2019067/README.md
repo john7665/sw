@@ -43,7 +43,10 @@ Webring: [Repo](https://github.com/LostMpodis/webring) | [Site](https://lostmpod
 Για αυτά τα βήματα ακολουθήσα τις οδηγίες που έπρεπε δημιουργόντας ενα demo branch για κάθε αποθετήριο "στο sitegr και στο all_collections" έκανα τις αλλαγές σιγουρεύτηκα ότι οι αλλαγές στο site έγιναν επιτυχώς και μετα τα μετέφερα στο master branch για την ολοκλήρωση του και την δημιουργία του pull request.
 
 [Demo site](https://p19zont.netlify.app/groups/)
+
 Tα repositories [sitegr](https://github.com/john7665/sitegr/tree/demo-branch) & [all_collections](https://github.com/john7665/all_collections/tree/demo-branch)
+
 [Σχετικό Issue](https://github.com/ioniodi/sitegr/issues/250)
+
 Τα Pull Requests: [sitegr](https://github.com/ioniodi/sitegr/pull/338) & [all_collections](https://github.com/ioniodi/all_collections/pull/30)
 
