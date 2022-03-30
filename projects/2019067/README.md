@@ -62,4 +62,4 @@ Tα repositories [sitegr](https://github.com/john7665/sitegr/tree/demo-branch) &
 Στο asciinema λινκ παρακάτω φαίνονται και όσα ανέφερα όπως και η άσκηση
 
 - [asciinema link](https://asciinema.org/a/caT8OThfmcd95PcTy6bPGuN1o)
-- [Αντίστοιχο link στα discussions]()
+- [Αντίστοιχο link στα discussions](https://github.com/courses-ionio/help/discussions/500)
