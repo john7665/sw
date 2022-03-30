@@ -50,3 +50,16 @@ Tα repositories [sitegr](https://github.com/john7665/sitegr/tree/demo-branch) &
 
 Τα Pull Requests: [sitegr](https://github.com/ioniodi/sitegr/pull/338) & [all_collections](https://github.com/ioniodi/all_collections/pull/30)
 
+## 4. Εγκατάσταση Void Linux 
+
+Για το 4ο παραδοτέο εγκατέστησα το Void Linux λειτουργικό σύστημα χωρίς systemd και εκτέλεσα την ασκηση check the weather απο τις [warmup ασκήσεις](https://github.com/epidrome/dokey#warmup)
+
+Ο,τι χρειάστηκε να εγκαταστήσω για αυτη την άσκηση: 
+- nano (για την αλλαγή του PS1 στο αρχείο bashrc)
+- ufetch (για να φανέι το σύστημα που χρησιμοποιήθηκε)
+- asciinema
+
+Στο asciinema λινκ παρακάτω φαίνονται και όσα ανέφερα όπως και η άσκηση
+
+- [asciinema link](https://asciinema.org/a/caT8OThfmcd95PcTy6bPGuN1o)
+- [Αντίστοιχο link στα discussions]()
