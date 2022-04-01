@@ -63,3 +63,12 @@ Tα repositories [sitegr](https://github.com/john7665/sitegr/tree/demo-branch) &
 
 - [asciinema link](https://asciinema.org/a/caT8OThfmcd95PcTy6bPGuN1o)
 - [Αντίστοιχο link στα discussions](https://github.com/courses-ionio/help/discussions/500)
+
+## 5. Συμμετοχικό Περιεχόμενο Α
+
+
+| | Repository | Netlify | Διαφάνειες | Χρονολόγιο |
+| --- | --- | --- | --- | --- |
+| Pulsar | [pulsar.md](https://github.com/john7665/_gallery/blob/demo-gallery/pulsar.md) . [Image](https://github.com/john7665/images/blob/demo-images/pulsar.jpg) . [Thumbnail](https://github.com/john7665/images/blob/demo-images/pulsar-thumb.jpg) | [Pulsar](https://p19zont-site.netlify.app//gallery/pulsar/) | [Τεχνολογία](https://p19zont-site.netlify.app//slides/technology/) | [Κινητός Υπολογισμός](https://p19zont-site.netlify.app//timeline/mobile/) | 
+| Edwin Catmull | [edwin-catmull.md](https://github.com/john7665/_gallery/blob/demo-gallery/edwin-catmull.md) . [Image](https://github.com/john7665/images/blob/demo-images/edwin-catmull.jpg) . [Thumbnail](https://github.com/john7665/images/blob/demo-images/edwin-catmull-thumb.jpg) | [Edwin Catmull](https://p19zont-site.netlify.app//gallery/edwin-catmull/) | [Τεχνολογία](https://p19zont-site.netlify.app//slides/technology/) | [Πρωτοπόροι](https://p19zont-site.netlify.app//timeline/pioneers/) |
+
