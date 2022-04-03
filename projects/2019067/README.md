@@ -7,7 +7,7 @@
 | 2 | βιογραφικό και δημιουργία ομάδας | [Παρουσίαση 2](https://github.com/courses-ionio/help/discussions/215) | |
 | 3 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | [Παρουσίαση 3](https://github.com/courses-ionio/help/discussions/357) | |
 | 4 | Άσκηση γραμμής εντολών | [Παρουσίαση 4](https://github.com/courses-ionio/help/discussions/500) | |
-| 5 | Συμμετοχικό περιεχόμενο A1+A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A1+A2 | [Παρουσίαση 5](https://github.com/courses-ionio/help/discussions/526) | |
 | 6 | Άσκηση γραμμής εντολών | | |
 | 7 | βιογραφικό | | |
 | 8 | Αίτημα ενσωμάτωσης στην ιστοσελίδα | | |
